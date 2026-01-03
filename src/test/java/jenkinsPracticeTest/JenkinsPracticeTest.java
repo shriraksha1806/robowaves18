@@ -11,5 +11,6 @@ public class JenkinsPracticeTest{
 	public void jenkinsPracticeTest()
 	{
 		System.out.println("hii jenkins");
+		System.out.println("byee jenkins");
 	}
 }
